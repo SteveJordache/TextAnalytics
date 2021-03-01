@@ -1,3 +1,10 @@
+- firt element
+- second element
+- x element
+
+
+
+
 ~~**I am going to be talking a bit of nonsese in here, this is all about markdown**~~
 
 __I am going to be talking a bit of nonsese in here, this is all about markdown__
@@ -9,7 +16,31 @@ __I am going to be talking a bit of nonsese in here, this is all about markdown_
 > Quote block without quotes
 
 > The **Master** of the **_game_** invited us to __play dead__
+> 
+
 # Header 1
+
 **I am going to be talking a bit of nonsese in here, this is all about markdown**
 
+
 ## Header 2
+I am reaching out regarding a permanent opening as a DevOps Engineer with an IT Services provider in Bucharest. Looking for expertise in Kubernetes/Kafka.
+
+
+- this is the first element in the list
+   - unordered list sublist position 1
+   - unordered list sublist position 2
+   - unordered list sublist position 3
+- this is the second element in the list
+- this is the 3rd element in the list
+ 
+This is not an element of the list
++ this is the 4th element
+
+1. Descriptive text
+   1.Sublist element 1
+   2.Sublist element 2
+   3.Sublist element 2
+3. Descriptive text
+4. Descriptive text
+7890. Description 
