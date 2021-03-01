@@ -39,8 +39,17 @@ This is not an element of the list
 
 1. Descriptive text
    1.Sublist element 1
-   2.Sublist element 2
+      1.sub-sublist element 1
+      2.sub-sublist element 2
+I am reaching out regarding a permanent opening as a DevOps Engineer with an IT Services provider in Bucharest. Looking for expertise in Kubernetes/Kafka.
+
    3.Sublist element 2
+   4.Sublist element 2
 3. Descriptive text
 4. Descriptive text
 7890. Description 
+
+
+* [ ] task 1
+* [ ] task 2
+* [ ] task 3
