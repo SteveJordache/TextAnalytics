@@ -4,7 +4,7 @@ Column1 | Column2 | Column3
 *Column1-Entry1*|__Column2-Entry2__|**_Column3-Entry1_**
 Column2-Entry2|Column2-Entry2|Column3-Entry2
 irhoiwhegoihjoigsjoigj|ojgpojreapoqjepogjerpogj|uhfuafaojf
-![AndroidLogo](https://www.droid-life.com/wp-content/uploads/2012/01/android-logo.png)|![](https://1000logos.net/wp-content/uploads/2017/02/Color-of-the-iOS-Logo.jpg "IOS BABY BLUE!")|![Ubuntu](https://sourcedigit.com/wp-content/uploads/2014/06/Ubuntu-Logo.png "Master Ubuntu")
+![AndroidLogo](Android.png)|![](Android.jpeg "IOS BABY BLUE!")|![Ubuntu](Ubuntu-Logo.png "Master Ubuntu")
 - firt element
 - second element
 - x element
